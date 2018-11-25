@@ -1,0 +1,3 @@
+/bin/sh
+
+./fs ~/hch_mnt ~/hch_disk 1
